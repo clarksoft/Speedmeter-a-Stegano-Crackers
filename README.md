@@ -8,17 +8,17 @@ un programa puede medir su calidad desde diferentes aspectos. En los relacionado
 
 1. Eficacia: que logre hacer lo que se pide.. es decir que no tenga falsos positivos o negativos, y que termine al momento de encontrar la palabra clave.
 
-  1.1 diccionario que contenga la palabra correcta
+   - 1.1 diccionario que contenga la palabra correcta
   
-  1.2 un software que revise correctamente cada palabra y detectando el éxito.
+   - 1.2 un software que revise correctamente cada palabra y detectando el éxito.
 
 
 2. Eficiencia: que logre hacerlo en el mínimo de tiempo.
  Que logre resolver un desafío en el menos tiempo posible dependerá de varios factores:
 
-2.1 Rendimiento de la máquina donde corre el aplicativo (capacidad de cómputo)
+   - 2.1 Rendimiento de la máquina donde corre el aplicativo (capacidad de cómputo)
 
-2.2 Un código que logre realizar la tarea de la forma más directa sin desperdiciar tiempo de procesador.
+   - 2.2 Un código que logre realizar la tarea de la forma más directa sin desperdiciar tiempo de procesador.
  
 En un escenario donde la máquina no varía, el único factor a considerar será el rendimiento del código (2.2)
 Aquí pondré una tabla comparativa de las pruebas de velocidad que realicé con el fin de lograr identificar cual herramienta usar de forma más permanente, basándose en las mejores formas de ejecutar el aplicativo sobre una maquina standard sin GPU. (unidad de procesamiento gráfico especializado)
