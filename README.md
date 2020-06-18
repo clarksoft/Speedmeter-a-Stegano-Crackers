@@ -45,7 +45,7 @@ stegbreak luego de unos 10 segundos tras la ejecución caía por Fragmentation F
 
 pybrute.py indica que corre 10 hilos simultaneamente, pero en mediciones, esa modificación no significó mejora apreciable.
 
-Entendiendo que la prueba fue realizada sólo con 100mil palabras y considerando que `rockyou.txt` tiene 14.3millones de palabras esta diferencia de tiempo entre una herramienta y otra pueden significar horas menos de espera.
+Entendiendo que la prueba fue realizada sólo con 100 mil palabras y considerando que `rockyou.txt` tiene 14.3 millones, esta diferencia de tiempo entre una herramienta y otra pueden significar horas menos de espera.
 
 
 Como podrán notar, `stegcracker` superó la velocidad promedio del resto, por lo que queda por el momento seleccionada como mi herramienta favorita.
