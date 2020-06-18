@@ -35,7 +35,8 @@ steg_brute.py | sudo python steg_brute -b -d dict -f file.jpg		| 514 |	195	| cay
 stegbreak	| stegbreak -f dict file.jpg	| | | caida por desbordamiento |
 pybrute.py |	pybrute.py -f file -w dict steghide	| 546 |	183	| indica que usa 10 hilos (threads)|
 
-notas:
+### notas:
+
 Steg_brute.py no logró administrar palabras que contenían comillas simples, lo que provocaba que la aplicación se detuvieran.
 para ejectuar correctamente la intrucción se debió filtrar:
 
