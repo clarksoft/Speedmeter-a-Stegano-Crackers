@@ -11,7 +11,7 @@ Tiene a su favor la no despreciable reputación de recorrer el archivo rockyou.t
 Su trabajo ha sido arduo y en el control de versiones se puede identificar cada uno de los pasos que han llevado a los desarrolladores a la mejora.
 Según dice su documentación, es más rápido que los demás por que sólo lee una vez el archivo, a diferencia de los otros sistemas que leer una vez por palabra.
 
-para instalarlo no es más que descargar la última [versión liberada](https://github.com/RickdeJager/stegseek/releases) y dar **sudo apt install ./stegseek_0.6-1.deb**
+para instalarlo no es más que descargar la última [versión liberada](https://github.com/RickdeJager/stegseek/releases) y dar `**sudo apt install ./stegseek_0.6-1.deb**`
 
 
 El uso es similar a stegcracker:
