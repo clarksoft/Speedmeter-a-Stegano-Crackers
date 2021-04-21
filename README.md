@@ -1,4 +1,26 @@
-# Speedmeter-a-Stegano-Crackers
+# Speedmeter-a-Stegano-Crackers (Actualizado)
+Ya pasado un tiempo de realizado este blog, tocó actualizarlo con una excelente noticia para todos los CTFteros que buscan optimizar su velocidad de resolución.
+
+El rey ha muerto, larga vida al rey.
+
+Stegcracker, el ganador de la revisión que había hecho ya hace casi un año ha sido derrocado.
+El nuevo campeón de steganografía ahora se llama Stegcracker.
+
+Tiene a su favor la no despreciable reputación de recorrer el archivo rockyou.txt en 2 segundos.
+su trabajo ha sido arduo y en el control de versiones se puede identificar cada uno de los pasos que han llevado a los desarrolladores a la mejora.
+según dice su documentación, es más rápido que los demás por que sólo lee una vez el archivo, a diferencia de los otros sistemas que leer una vez por palabra.
+
+para instalarlo no es más que descargar la última versión liberada y dar sudo apt install ./stegseek_0.6-1.deb
+(https://github.com/RickdeJager/stegseek/releases)
+
+El uso es similar a stegcracker
+stegseek <imagen> <wordlist>
+   
+Los invito a probar uds. mismos la velocidad de esta nueva herramienta con alguno de los desafíos que ya han tenido en su pasado y adoptar esta genial mejora en los desafíos de steganografía.
+
+Saludos.
+
+-------------------------------------------------------------------
 
 Pruebas de velocidad de cada aplicación de crackeo esteganográfica
 
