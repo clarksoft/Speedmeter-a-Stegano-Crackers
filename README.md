@@ -2,7 +2,7 @@
 
 Ya pasado un tiempo de realizado este blog, tocó actualizarlo con una excelente noticia para todos los CTFteros que buscan optimizar su velocidad de resolución.
 
-##El rey ha muerto, larga vida al rey.##
+## El rey ha muerto, larga vida al rey. ##
 
 Stegcracker, el ganador de la revisión que había hecho ya hace casi un año ha sido derrocado.
 El nuevo campeón de steganografía ahora se llama **Stegseek**.
