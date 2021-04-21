@@ -4,7 +4,7 @@ Ya pasado un tiempo de realizado este blog, tocó actualizarlo con una excelente
 El rey ha muerto, larga vida al rey.
 
 Stegcracker, el ganador de la revisión que había hecho ya hace casi un año ha sido derrocado.
-El nuevo campeón de steganografía ahora se llama Stegcracker.
+El nuevo campeón de steganografía ahora se llama Stegseek.
 
 Tiene a su favor la no despreciable reputación de recorrer el archivo rockyou.txt en 2 segundos.
 su trabajo ha sido arduo y en el control de versiones se puede identificar cada uno de los pasos que han llevado a los desarrolladores a la mejora.
